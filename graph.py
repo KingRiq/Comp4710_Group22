@@ -8,7 +8,7 @@ my_filtered_csv = pd.read_csv('./Data/cases_timeseries_canada.csv', usecols=['da
 #df = pd.read_csv(csv_file)
 #saved_column = df['date_report'] #you can also use df['column_name']
 
-columns = (my_filtered_csv[~my_filtered_csv['date_report']. isna()])#,(my_filtered_csv[~my_filtered_csv['Monthly cases']. isna()])
+columns = (my_filtered_csv[~my_filtered_csv['date_report'].isna()])#,(my_filtered_csv[~my_filtered_csv['Monthly cases']. isna()])
 #names = df.Names
 x = []
 y = [] 
@@ -27,7 +27,7 @@ print(columns)
 print(x)
 plt.plot(x,y)
 
-
+plt.gcf().autofmt_xdate()
 
 plt.show()
 '''with open('./Data/cases_timeseries_canada.csv') as csv_file:
