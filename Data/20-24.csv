@@ -1,0 +1,44 @@
+﻿"Labour force characteristics by province, monthly, seasonally adjusted",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Frequency: Monthly,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table: 14-10-0287-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Release date: 2021-12-03,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Geography: Canada, Province or territory",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sex,Age group,Statistics,Data type,Geography 4,Labour force characteristics,2020-01-31,2020-02-29,2020-03-31,2020-04-30,2020-05-31,2020-06-30,2020-07-31,2020-08-31,2020-09-30,2020-10-31,2020-11-30,2020-12-31,2021-01-31,2021-02-28,2021-03-31,2021-04-30,2021-05-31,2021-06-30,2021-07-31,2021-08-31,2021-09-30,2021-10-31,2021-11-30
+Both sexes,20 to 24 years,Estimate,Unadjusted,Canada,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,"Population 5 6  (x 1,000)","2,428.20","2,428.30","2,428.20","2,427.30","2,426.40","2,426.10","2,425.80","2,425.40","2,424.80","2,424.40","2,423.70","2,420.70","2,416.30","2,413.00","2,409.40","2,405.60","2,401.50","2,396.00","2,393.50","2,391.10","2,389.80","2,389.00","2,387.90"
+,,,,,"Labour force 7  (x 1,000)","1,771.10","1,795.90","1,664.60","1,500.50","1,748.20","1,937.80","1,993.70","1,987.50","1,792.10","1,803.70","1,784.50","1,738.00","1,720.30","1,726.70","1,756.90","1,722.90","1,886.20","1,964.60","1,995.70","1,971.90","1,794.90","1,784.80","1,771.30"
+,,,,,"Employment 8  (x 1,000)","1,609.90","1,636.80","1,410.00","1,123.30","1,235.60","1,439.50","1,565.70","1,586.50","1,478.80","1,512.40","1,519.70","1,488.40","1,397.30","1,464.80","1,553.90","1,488.00","1,577.10","1,735.10","1,773.00","1,766.00","1,607.40","1,617.60","1,613.50"
+,,,,,"Full-time employment 9  (x 1,000)",974.8,970.6,905.4,751.1,894.7,"1,045.90","1,100.60","1,121.20",924.8,895.5,911.7,924.1,889.2,911.7,935.4,937.2,"1,100.60","1,231.80","1,279.80","1,305.20","1,030.10","1,006.90",959.5
+,,,,,"Part-time employment  10  (x 1,000)",635.1,666.2,504.6,372.2,340.9,393.6,465.2,465.3,554,616.9,608,564.3,508.2,553.2,618.5,550.8,476.6,503.4,493.2,460.9,577.3,610.7,654
+,,,,,"Unemployment 11  (x 1,000)",161.2,159.1,254.6,377.2,512.6,498.3,428,401,313.3,291.3,264.8,249.6,322.9,261.8,203,234.8,309.1,229.4,222.7,205.9,187.5,167.2,157.9
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Unemployment rate 12,9.1,8.9,15.3,25.1,29.3,25.7,21.5,20.2,17.5,16.2,14.8,14.4,18.8,15.2,11.6,13.6,16.4,11.7,11.2,10.4,10.4,9.4,8.9
+,,,,,Employment rate 13,66.3,67.4,58.1,46.3,50.9,59.3,64.5,65.4,61,62.4,62.7,61.5,57.8,60.7,64.5,61.9,65.7,72.4,74.1,73.9,67.3,67.7,67.6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Symbol legend:,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+..., not applicable,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Fluctuations in economic time series are caused by seasonal, cyclical and irregular movements. A seasonally adjusted series is one from which seasonal movements have been eliminated. Seasonal movements are defined as those which are caused by regular annual events such as climate, holidays, vacation periods and cycles related to crops, production and retail sales associated with Christmas and Easter. It should be noted that the seasonally adjusted series contain irregular as well as longer-term cyclical fluctuations. The seasonal adjustment program is a complicated computer program which differentiates between these seasonal, cyclical and irregular movements in a series over a number of years and, on the basis of past movements, estimates appropriate seasonal factors for current data. On an annual basis, the historic series of seasonally adjusted data are revised in light of the most recent information on changes in seasonality.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"For more information on seasonal adjustment see <a href=http://www.statcan.gc.ca/eng/dai/btd/sad-faq"">Seasonally adjusted data - Frequently asked questions</a>.""",,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Excluding the territories.,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Number of persons of working age, 15 years and over. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"From December 2000 to January 2001, there is a slight level shift in the population series. This is due to the 2015 population rebasing, which was revised back to 2001. This level shift is evident for certain age groups and in two provinces (Manitoba and Saskatchewan). These shifts are minor for labour force estimates and rates.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"Number of civilian, non-institutionalized persons 15 years of age and over who, during the reference week, were employed or unemployed. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Number of persons who, during the reference week, worked for pay or profit, or performed unpaid family work or had a job but were not at work due to own illness or disability, personal or family responsibilities, labour dispute, vacation, or other reason. Those persons on layoff and persons without work but who had a job to start at a definite date in the future are not considered employed. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Full-time employment consists of persons who usually work 30 hours or more per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Part-time employment consists of persons who usually work less than 30 hours per week at their main or only job. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Number of persons who, during the reference week, were without work, had looked for work in the past four weeks, and were available for work. Those persons on layoff or who had a new job to start in four weeks or less are considered unemployed. Estimates in thousands, rounded to the nearest hundred.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,"The unemployment rate is the number of unemployed persons expressed as a percentage of the labour force. The unemployment rate for a particular group (age, sex, marital status, etc.) is the number unemployed in that group expressed as a percentage of the labour force for that group. Estimates are percentages, rounded to the nearest tenth.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,"The employment rate is the number of persons employed expressed as a percentage of the population 15 years of age and over. The employment rate for a particular group (age, sex, marital status, etc.) is the number employed in that group expressed as a percentage of the population for that group. Estimates are percentages, rounded to the nearest tenth.",,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"How to cite: Statistics Canada. Table 14-10-0287-03  Labour force characteristics by province, monthly, seasonally adjusted",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703,,,,,,,,,,,,,,,,,,,,,,,,,,,,
