@@ -33,7 +33,7 @@ f3 = read_csv(f3)
 f4 = read_csv(f4)
 f5 = read_csv(f5)
 
- #for debugging
+#for debugging
 #pd.set_option("display.max_rows", 0, "display.max_columns", 0)
 
 # load our x values (which are dates)
@@ -79,7 +79,7 @@ for i in columns:
     y.append(i[1])
 
 
-
+'''
 
 print('Before')
 print(np.corrcoef(y,y)[0][1])
@@ -89,14 +89,14 @@ print(np.corrcoef(f3,y)[0][1])
 print(np.corrcoef(f4,y)[0][1])
 print(np.corrcoef(f5,y)[0][1])
 
-'''
+
 f1 = np.delete(f1, index)
 f2 = np.delete(f2, index)
 f3 = np.delete(f3, index)
 f4 = np.delete(f4, index)
 f5 = np.delete(f5, index)
 y = np.delete(y, -1)
-'''
+
 
 
 print('After')
@@ -107,7 +107,7 @@ print(np.corrcoef(f3,y)[0][1])
 print(np.corrcoef(f4,y)[0][1])
 print(np.corrcoef(f5,y)[0][1])
 
-
+'''
 
 
 
@@ -143,6 +143,8 @@ print(np.corrcoef(f22,y1)[0][1])
 print(np.corrcoef(f32,y1)[0][1])
 print(np.corrcoef(f42,y1)[0][1])
 print(np.corrcoef(f52,y1)[0][1])'''
+
+# prep for output files
 arr2 = []
 arr2 = np.append(arr2, [np.corrcoef(f12,y1)[0][1],np.corrcoef(f22,y1)[0][1],np.corrcoef(f32,y1)[0][1],np.corrcoef(f42,y1)[0][1],np.corrcoef(f52,y1)[0][1]])
 arr1 = []
@@ -151,9 +153,11 @@ while(len(y) != len(arr1)):
     arr1 = np.append(arr1, '')
 while(len(y1) != len(arr2)):
     arr2 = np.append(arr2, '')
+
+
+# create output file
 df = pd.DataFrame({"TimeSeries 1" : x, "# of Covid Cases" : y, "15 and Over": f1,"15-19": f2,"20-24": f3,"25-54": f4,"55-64": f5,"data": arr1})
 
-df.to_csv("Timeseries 1 Eval.csv", index=False)
+df.to_csv("Timeseries 1 Eval.csv", index=False, mode='w')
 df =  pd.DataFrame({"TimeSeries 2" : x1, "# of Covid Cases" : y1, "15 and Over": f12,"15-19": f22,"20-24": f32,"25-54": f42,"55-64": f52, "data": arr2})
-df.to_csv("Timeseries 2 Eval.csv", index=False)
-print(arr1)
+df.to_csv("Timeseries 2 Eval.csv", index=False, mode='w')
